@@ -9,7 +9,7 @@
 title:       Lim Taegeun Blog
 email:       'imori333@gmail.com'
 description: 'lim taegeun blog'
-baseurl:     '/blog' # The subpath of your site, e.g. /blog
+baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
 twitter:     ''
 github:      'limtaegeun'

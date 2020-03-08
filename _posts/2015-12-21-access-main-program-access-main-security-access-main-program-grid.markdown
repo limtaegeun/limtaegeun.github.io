@@ -1,31 +1,20 @@
 ---
 layout: post
-title: Access main program. Access main security. Access main program grid
-tags: [frontpage, jekyll, blog]
+title: 우리에게 철학이 필요한 이유
+tags: [철학]
 image: '/images/posts/1.jpg'
 ---
 
-Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
+한국은 철학을 무시한다. 내가 철학을 제대로 접한 나이가 20살일 것이다. 물론 학창시절 도덕, 윤리라는 과목을 통해서 철학을 접했겠지만 어떤 도덕 , 윤리 선생님도 지금 배우고있는 과목이 왜 중요한지 왜 배워야하는지 설명해 주지 않았고 도덕 과목에 대한 자부심 조차 없었다. 
 
-Vix dico eius nominati cu, ex zril commodo fuisset mea. Habeo adhuc audiam ius no. In quis virtute officiis has. Vix ad honestatis accommodare, quis virtute et sit, pertinax expetenda eam id. Duo an fuisset delectus dissentias, justo altera ea per.
+내 학창시절 도덕 수업은 2종류였다. 아리스토텔레스니 소크라테스니 하는 사람들의 배부른 탁상공론에 도대체 내 인생이 무슨 도음이 될지 모르는 고상한 이야기를 읆어주는 수업 혹은 도덕에 관심 없는 친구를 위해 최대한 쉽고 재미있게 놀이 형식으로 진행되는 수업. 후자는 보통 초등학교나 중학교에서 이루어 졌고 물론 나는 이과라 뇌가 조금 자랐을때는 철학 수업이 존재 하지도 않았다. 그래서 나에게 윤리는  착하게 사는 법을 알려주는 수업일 뿐이었고 철학을 유일하게 접할 수 있었던 윤리 수업은 필요없는 수업이 되버렸다. 따라서 20살 이전까지 나에게 철학은 ‘철학 = 착하게 살자’ 딱 이정도 였다. 난 이미 착하게 살고 있다 생각했고 따라서 철학은 나에게 필요없는 학문일 뿐이었다.  그리고 과목 이름도 여기에 한 몫했다고 생각한다. 사람마다 다르겠지만 내 경험에 의하면 그랬고 다른 친구들도 대부분 나와 크게 다르지 않았다고 생각한다.  여기 까지가 우리나라 의무 교육에서 철학의 위상이다.
 
-##### Todo
+대학에서도 아이러니 하게도 철학의 위상은 처참하다. 우리들이 박사라고 부르는 모든 박사들은 철학박사다. 그럼에도 불구하고 우리 철학박사들은 철학을 모른다. 내가 철학을 복수전공으로 하려고 고민해고 있을 때 대학교 교육 과정에서는 철학과 목표가 무슨 논술선생님 양성 수준으로 느껴졌고 나는 철학과 복수전공을 포기하였다.
 
-Duis id ante elit. Aliquam quis tellus id orci eleifend finibus. Donec consequat justo ligula, eget sodales purus hendrerit at.
+나는 공대를 다녔고 대학에는 필수 이수 교양과목들이 보통 있다. 하지만 너무 어이가 없게도 필수 전공에 경제. 역사는 있지만 철학은 없다. 필수 교양 과목 체계에 의하면 역사수업은 2개 씩이나 듣는데 철학 수업은 하나도 들을 필요가 없는 것이다. 경제, 역사가 중요하지 않은 것은 아니지만 철학이 저 두과목에 비해 조금도 중요도가 떨어진다고 생각하진 않지만 대학교는 철학을 중요하지 않다 말한다. 
 
-1. Ut at interdum nunc. Maecenas commodo turpis quis elementum gravida.
-2. Nunc ac sapien tellus. Quisque risus enim, tempus eget porttitor in, pellentesque vel urna.
-    Donec nibh massa, rutrum a sollicitudin eu,
-lacinia in lorem.
+결과적으로 대학까지 나온 우리들은 세종대왕이 누군지는 알지만 민주주의는 모른다. 세종대왕을 모르면 무식하다 욕먹지만 민주주의를 모르는건 당연하다. 이 상황이 과연 정상적인걸까? 민주주의를 살면서 민주주의를 모르는것이 더 부끄러운것이 아닐까. 
 
-##### Graphic design
+나는 교약수업으로 철학수업을 들었다. 그리고 어느날 교수님께 물었다. 왜 우리는 철학을 공부해야하나요? 교수님은 생각하는 힘을 기르기 위해서 라고하셨다.  그 대답을 들은 나는 너무 큰 충격을 받았고. 나는 크게 공감하지 않을 수 없었다. 철학을 공부하면 할 수록 내가 지금까지 얼마나 생각의 힘이 약했는지 알수 있었으니까. 철학을 모르고 생각했던 20년이란 시간이 아까워졌다. 
 
-> Graphic design is the paradise of individuality, eccentricity, heresy, abnormality, hobbies, and humors. - George Santayana
-
-Vim te case nihil oblique, has partem interpretaris ne, ad admodum accusamus nam. Usu utinam dissentias referrentur ne, vim accusam voluptua pertinacia no. Est no posse utinam inermis, brute errem mentitum et ius, te prompta albucius quo. In pro simul soleat regione.
-
-![alt](https://images.unsplash.com/photo-1433785567155-bf5530cab72c?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=1348aea714b9493fa61a09a8c01113e6)
-
-Ne reque offendit singulis mea, ad eos ferri doming nostrud. Duis suscipit usu ut, fuisset pericula ex est, et porro prompta his. Audire definiebas voluptatibus et duo, aperiam ocurreret ad nec. Vel ad nostrud principes. Ad liber congue iracundia sed, eirmod erroribus eam te, has veniam epicurei ea.
-
-Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.
+사람이하는 모든 일은 생각을 통해서 이루어지지 않나. 생각의 힘이 곧 나의 결과물의 질을 결정한다. 그러면 일하는 사람은 모두 철학을 알아야한다.

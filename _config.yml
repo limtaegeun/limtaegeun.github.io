@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:       Lim Taegeun Blog
+title:       Taegeun's Blog
 email:       'imori333@gmail.com'
-description: 'lim taegeun blog'
+description: 'taegeun's blog'
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://limtaegeun.github.io/' # The base hostname & protocol for your site
 github:      'https://github.com/limtaegeun'

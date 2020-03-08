@@ -1,87 +1,48 @@
-# Mandatory settings
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-blog_theme: light # Or use dark
-name: Chalk
-paginate: 25
-url: http://chalk.nielsenramon.com
+# Site settings
+title:       Type
+email:       ''
+description: ''
+baseurl:     '' # The subpath of your site, e.g. /blog
+url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
+twitter:     ''
+github:      ''
+instagram:   ''
+facebook:    ''
 
+markdown:  kramdown
+permalink: pretty
+paginate:  10
 
-# Optional settings
+sass:
+  style: compressed
 
-about_enabled: true # Change to true if you wish to show an icon in the navigation that redirects to the about page
-discus_identifier: chalk-1 # Add your Disqus identifier
-ga_analytics: UA-28631876-6 # Add your GA Tracking Id
-local_fonts: false # Change to true if you wish to use local fonts
-rss_enabled: true # Change to false if not
-scrollappear_enabled: true # Change to false to disable
-tag_nav_enabled: false # Change to true if you wish to show an additional 'tag-list' navigation below the header
-theme_toggle: false # Change to true if you wish to show an icon in the navigation for dynamic theme toggling
-social:
-  dribbble: nielsenramon # Add your Dribbble handle
-  facebook: # Add your Facebook handle
-  flickr: # Add your Flickr handle
-  github: nielsenramon # Add your GitHub handle
-  linkedin: # Add your LinkedIn handle
-  twitter: nielsenramon # Add your Twitter handle
-  email: # Add your Email address
-  bitcoin: # Add your Bitcoin link or address
-  ethereum: # Add your Ethereum link or address
-  gitlab: # Add your GitLab handle
-  youtube: # Add your Youtube handle
-  twitch: # Add your Twitch handle
-  discord: # Add you Discord server invitation ID
-  tumblr: # Add your Tumblr handle
-  bitbucket: # Add your Bitbucket handle
-  docker: # Add your Docker Hub handle
-  instagram: # Add your Instagram handle
-  keybase: # Add your Keybase handle
-  medium: # Add your Medium handle
-  spotify: # Add your Spotify handle
-  stackoverflow: # Add your Stack Overflow ID number
-  steam: # Add your Steam handle
+plugins:
+  - jekyll-paginate
+  - jekyll/tagging
 
+include:
+  - _pages
 
-# Important settings (change at own risk)
-
-assets:
-  plugins:
-    css: { autoprefixer: {}}
-    img: { optim: {}}
-  source_maps: false
-  sources:
-    - _assets/icons
-    - _assets/javascripts
-    - _assets/stylesheets
-    - _assets/yarn
-collections:
-  my_tags:
-    output: true
-    permalink: /tag/:slug/
-defaults:
-  -
-    scope:
-      path: ""
-      type: my_tags
-    values:
-      layout: articles_by_tag
 exclude:
-  - .travis.yml
-  - bin/*
-  - circle.yml
+  - vendor
   - Gemfile
   - Gemfile.lock
-  - package.json
-  - package-lock.json
-  - README.md
-  - vendor/
-  - yarn.lock
-plugins:
-  - jekyll-assets
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jemoji
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
-paginate_path: /posts/page/:num/
-permalink: posts/:slug
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  pretty
+
+# Pages path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext

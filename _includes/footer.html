@@ -1,7 +1,35 @@
-<footer class="footer {% if site.scrollappear_enabled %}scrollappear{% endif %}">
-  <p>
-    Chalk is a high quality, completely customizable, performant and 100% free
-    blog template for Jekyll built by
-    <a href="{{ 'about' | relative_url }}" title="About me">Nielsen Ramon</a>. Download it <a href="https://github.com/nielsenramon/chalk" rel="noreferrer noopener" target="_blank" title="Download Chalk">here</a>.
-  </p>
+<footer class='c-footer'>
+  <div class='o-grid'>
+    <div class='o-grid__col o-grid__col--full'>
+
+      <ul class='o-plain-list c-social-nav u-text-center'>
+        <li class='c-social-nav__item'>
+          <a href='{{ site.twitter }}' target='_blank'>
+            <span class='c-social-nav__icon' data-icon='ei-sc-twitter' data-size='s'></span>
+          </a>
+        </li>
+        <li class='c-social-nav__item'>
+          <a href='{{ site.facebook }}' target='_blank'>
+            <span class='c-social-nav__icon' data-icon='ei-sc-facebook' data-size='s'></span>
+          </a>
+        </li>
+        <li class='c-social-nav__item'>
+          <a href='{{ site.instagram }}' target='_blank'>
+            <span class='c-social-nav__icon' data-icon='ei-sc-instagram' data-size='s'></span>
+          </a>
+        </li>
+        <li class='c-social-nav__item'>
+          <a href='{{ site.github }}' target='_blank'>
+            <span class='c-social-nav__icon' data-icon='ei-sc-github' data-size='s'></span>
+          </a>
+        </li>
+        <li class='c-social-nav__item'>
+          <a href='mailto:{{ site.email }}' target='_blank'>
+            <span class='c-social-nav__icon' data-icon='ei-envelope' data-size='s'></span>
+          </a>
+        </li>
+      </ul>
+
+    </div>
+  </div>
 </footer>

@@ -10,11 +10,9 @@ title:       Lim Taegeun Blog
 email:       'imori333@gmail.com'
 description: 'lim taegeun blog'
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
-twitter:     ''
-github:      'limtaegeun'
-instagram:   'l_taegeun'
-facebook:    ''
+url:         'https://limtaegeun.github.io/' # The base hostname & protocol for your site
+github:      'https://github.com/limtaegeun'
+instagram:   'https://www.instagram.com/l_taegeun'
 
 markdown:  kramdown
 permalink: pretty

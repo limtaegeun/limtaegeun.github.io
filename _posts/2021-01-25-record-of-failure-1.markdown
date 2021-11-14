@@ -1,5 +1,6 @@
 ---
 layout: post
+id: 2021012501
 title: 실패의 기록 1 - 시작하는 말
 tags: [실패,기록]
 image: '/images/posts/2.jpg'

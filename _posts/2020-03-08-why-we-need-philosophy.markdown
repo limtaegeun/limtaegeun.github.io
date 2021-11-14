@@ -1,6 +1,5 @@
 ---
 layout: post
-id: 2020030801
 title: 우리에게 철학이 필요한 이유
 tags: [철학]
 image: '/images/posts/1.jpg'
